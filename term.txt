@@ -1,0 +1,7 @@
+Types of Time Complexity :
+
+O(1) / Constant Time
+O(n) / Linear Time
+O(n²) / Quadratic Time
+O(log n) / Logarithmic Time
+O(2^n) / Exponential Time
